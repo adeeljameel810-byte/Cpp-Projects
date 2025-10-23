@@ -1,4 +1,4 @@
-// This program prints "Hello, World!" on the screen.
+// This program prints the "Hello, World!" on the screen.
 // It is usually the first program that beginners write in C++.
 
 #include <iostream>  // include the input-output library
